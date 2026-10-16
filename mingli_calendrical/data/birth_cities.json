@@ -1,0 +1,3597 @@
+[
+ {
+  "name": "中国",
+  "en": "China",
+  "regions": [
+   {
+    "name": "北京市",
+    "en": "Beijing",
+    "cities": [
+     {
+      "name": "北京",
+      "en": "Beijing",
+      "lng": 116.4,
+      "tz": 8
+     },
+     {
+      "name": "东城",
+      "en": "Dongcheng",
+      "lng": 116.42,
+      "tz": 8
+     },
+     {
+      "name": "西城",
+      "en": "Xicheng",
+      "lng": 116.37,
+      "tz": 8
+     },
+     {
+      "name": "朝阳",
+      "en": "Chaoyang",
+      "lng": 116.49,
+      "tz": 8
+     },
+     {
+      "name": "丰台",
+      "en": "Fengtai",
+      "lng": 116.29,
+      "tz": 8
+     },
+     {
+      "name": "石景山",
+      "en": "Shijingshan",
+      "lng": 116.22,
+      "tz": 8
+     },
+     {
+      "name": "海淀",
+      "en": "Haidian",
+      "lng": 116.3,
+      "tz": 8
+     },
+     {
+      "name": "门头沟",
+      "en": "Mentougou",
+      "lng": 116.1,
+      "tz": 8
+     },
+     {
+      "name": "房山",
+      "en": "Fangshan",
+      "lng": 116.14,
+      "tz": 8
+     },
+     {
+      "name": "通州",
+      "en": "Tongzhou",
+      "lng": 116.66,
+      "tz": 8
+     },
+     {
+      "name": "顺义",
+      "en": "Shunyi",
+      "lng": 116.65,
+      "tz": 8
+     },
+     {
+      "name": "昌平",
+      "en": "Changping",
+      "lng": 116.24,
+      "tz": 8
+     },
+     {
+      "name": "大兴",
+      "en": "Daxing",
+      "lng": 116.34,
+      "tz": 8
+     },
+     {
+      "name": "怀柔",
+      "en": "Huairou",
+      "lng": 116.64,
+      "tz": 8
+     },
+     {
+      "name": "平谷",
+      "en": "Pinggu",
+      "lng": 117.12,
+      "tz": 8
+     },
+     {
+      "name": "密云",
+      "en": "Miyun",
+      "lng": 116.84,
+      "tz": 8
+     },
+     {
+      "name": "延庆",
+      "en": "Yanqing",
+      "lng": 115.98,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "天津市",
+    "en": "Tianjin",
+    "cities": [
+     {
+      "name": "天津",
+      "en": "Tianjin",
+      "lng": 117.2,
+      "tz": 8
+     },
+     {
+      "name": "和平",
+      "en": "Heping",
+      "lng": 117.21,
+      "tz": 8
+     },
+     {
+      "name": "河东",
+      "en": "Hedong",
+      "lng": 117.24,
+      "tz": 8
+     },
+     {
+      "name": "河西",
+      "en": "Hexi",
+      "lng": 117.22,
+      "tz": 8
+     },
+     {
+      "name": "南开",
+      "en": "Nankai",
+      "lng": 117.15,
+      "tz": 8
+     },
+     {
+      "name": "河北",
+      "en": "Hebei",
+      "lng": 117.2,
+      "tz": 8
+     },
+     {
+      "name": "红桥",
+      "en": "Hongqiao",
+      "lng": 117.15,
+      "tz": 8
+     },
+     {
+      "name": "东丽",
+      "en": "Dongli",
+      "lng": 117.31,
+      "tz": 8
+     },
+     {
+      "name": "西青",
+      "en": "Xiqing",
+      "lng": 117.01,
+      "tz": 8
+     },
+     {
+      "name": "津南",
+      "en": "Jinnan",
+      "lng": 117.36,
+      "tz": 8
+     },
+     {
+      "name": "北辰",
+      "en": "Beichen",
+      "lng": 117.13,
+      "tz": 8
+     },
+     {
+      "name": "武清",
+      "en": "Wuqing",
+      "lng": 117.04,
+      "tz": 8
+     },
+     {
+      "name": "宝坻",
+      "en": "Baodi",
+      "lng": 117.31,
+      "tz": 8
+     },
+     {
+      "name": "滨海新区",
+      "en": "Binhai New Area",
+      "lng": 117.7,
+      "tz": 8
+     },
+     {
+      "name": "宁河",
+      "en": "Ninghe",
+      "lng": 117.83,
+      "tz": 8
+     },
+     {
+      "name": "静海",
+      "en": "Jinghai",
+      "lng": 116.97,
+      "tz": 8
+     },
+     {
+      "name": "蓟州",
+      "en": "Jizhou",
+      "lng": 117.41,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "上海市",
+    "en": "Shanghai",
+    "cities": [
+     {
+      "name": "上海",
+      "en": "Shanghai",
+      "lng": 121.5,
+      "tz": 8
+     },
+     {
+      "name": "黄浦",
+      "en": "Huangpu",
+      "lng": 121.49,
+      "tz": 8
+     },
+     {
+      "name": "徐汇",
+      "en": "Xuhui",
+      "lng": 121.44,
+      "tz": 8
+     },
+     {
+      "name": "长宁",
+      "en": "Changning",
+      "lng": 121.42,
+      "tz": 8
+     },
+     {
+      "name": "静安",
+      "en": "Jing'an",
+      "lng": 121.45,
+      "tz": 8
+     },
+     {
+      "name": "普陀",
+      "en": "Putuo",
+      "lng": 121.4,
+      "tz": 8
+     },
+     {
+      "name": "虹口",
+      "en": "Hongkou",
+      "lng": 121.51,
+      "tz": 8
+     },
+     {
+      "name": "杨浦",
+      "en": "Yangpu",
+      "lng": 121.53,
+      "tz": 8
+     },
+     {
+      "name": "闵行",
+      "en": "Minhang",
+      "lng": 121.38,
+      "tz": 8
+     },
+     {
+      "name": "宝山",
+      "en": "Baoshan",
+      "lng": 121.49,
+      "tz": 8
+     },
+     {
+      "name": "嘉定",
+      "en": "Jiading",
+      "lng": 121.25,
+      "tz": 8
+     },
+     {
+      "name": "浦东新区",
+      "en": "Pudong New Area",
+      "lng": 121.56,
+      "tz": 8
+     },
+     {
+      "name": "金山",
+      "en": "Jinshan",
+      "lng": 121.34,
+      "tz": 8
+     },
+     {
+      "name": "松江",
+      "en": "Songjiang",
+      "lng": 121.23,
+      "tz": 8
+     },
+     {
+      "name": "青浦",
+      "en": "Qingpu",
+      "lng": 121.12,
+      "tz": 8
+     },
+     {
+      "name": "奉贤",
+      "en": "Fengxian",
+      "lng": 121.47,
+      "tz": 8
+     },
+     {
+      "name": "崇明",
+      "en": "Chongming",
+      "lng": 121.4,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "重庆市",
+    "en": "Chongqing",
+    "cities": [
+     {
+      "name": "渝中",
+      "en": "Yuzhong",
+      "lng": 106.6,
+      "tz": 8
+     },
+     {
+      "name": "大渡口",
+      "en": "Dadukou",
+      "lng": 106.5,
+      "tz": 8
+     },
+     {
+      "name": "江北",
+      "en": "Jiangbei",
+      "lng": 106.6,
+      "tz": 8
+     },
+     {
+      "name": "沙坪坝",
+      "en": "Shapingba",
+      "lng": 106.5,
+      "tz": 8
+     },
+     {
+      "name": "九龙坡",
+      "en": "Jiulongpo",
+      "lng": 106.5,
+      "tz": 8
+     },
+     {
+      "name": "南岸",
+      "en": "Nan'an",
+      "lng": 106.6,
+      "tz": 8
+     },
+     {
+      "name": "北碚",
+      "en": "Beibei",
+      "lng": 106.4,
+      "tz": 8
+     },
+     {
+      "name": "渝北",
+      "en": "Yubei",
+      "lng": 106.6,
+      "tz": 8
+     },
+     {
+      "name": "巴南",
+      "en": "Banan",
+      "lng": 106.5,
+      "tz": 8
+     },
+     {
+      "name": "万州",
+      "en": "Wanzhou",
+      "lng": 108.4,
+      "tz": 8
+     },
+     {
+      "name": "涪陵",
+      "en": "Fuling",
+      "lng": 107.4,
+      "tz": 8
+     },
+     {
+      "name": "黔江",
+      "en": "Qianjiang",
+      "lng": 108.8,
+      "tz": 8
+     },
+     {
+      "name": "长寿",
+      "en": "Changshou",
+      "lng": 107.1,
+      "tz": 8
+     },
+     {
+      "name": "江津",
+      "en": "Jiangjin",
+      "lng": 106.3,
+      "tz": 8
+     },
+     {
+      "name": "合川",
+      "en": "Hechuan",
+      "lng": 106.3,
+      "tz": 8
+     },
+     {
+      "name": "永川",
+      "en": "Yongchuan",
+      "lng": 105.9,
+      "tz": 8
+     },
+     {
+      "name": "南川",
+      "en": "Nanchuan",
+      "lng": 107.1,
+      "tz": 8
+     },
+     {
+      "name": "綦江",
+      "en": "Qijiang",
+      "lng": 106.7,
+      "tz": 8
+     },
+     {
+      "name": "大足",
+      "en": "Dazu",
+      "lng": 105.7,
+      "tz": 8
+     },
+     {
+      "name": "璧山",
+      "en": "Bishan",
+      "lng": 106.2,
+      "tz": 8
+     },
+     {
+      "name": "铜梁",
+      "en": "Tongliang",
+      "lng": 106.1,
+      "tz": 8
+     },
+     {
+      "name": "潼南",
+      "en": "Tongnan",
+      "lng": 105.8,
+      "tz": 8
+     },
+     {
+      "name": "荣昌",
+      "en": "Rongchang",
+      "lng": 105.6,
+      "tz": 8
+     },
+     {
+      "name": "开州",
+      "en": "Kaizhou",
+      "lng": 108.4,
+      "tz": 8
+     },
+     {
+      "name": "梁平",
+      "en": "Liangping",
+      "lng": 107.8,
+      "tz": 8
+     },
+     {
+      "name": "武隆",
+      "en": "Wulong",
+      "lng": 107.8,
+      "tz": 8
+     },
+     {
+      "name": "城口",
+      "en": "Chengkou",
+      "lng": 108.7,
+      "tz": 8
+     },
+     {
+      "name": "丰都",
+      "en": "Fengdu",
+      "lng": 107.7,
+      "tz": 8
+     },
+     {
+      "name": "垫江",
+      "en": "Dianjiang",
+      "lng": 107.4,
+      "tz": 8
+     },
+     {
+      "name": "忠县",
+      "en": "Zhongxian",
+      "lng": 108.1,
+      "tz": 8
+     },
+     {
+      "name": "云阳",
+      "en": "Yunyang",
+      "lng": 108.7,
+      "tz": 8
+     },
+     {
+      "name": "奉节",
+      "en": "Fengjie",
+      "lng": 109.5,
+      "tz": 8
+     },
+     {
+      "name": "巫山",
+      "en": "Wushan",
+      "lng": 109.9,
+      "tz": 8
+     },
+     {
+      "name": "巫溪",
+      "en": "Wuxi",
+      "lng": 109.6,
+      "tz": 8
+     },
+     {
+      "name": "石柱",
+      "en": "Shizhu",
+      "lng": 108.1,
+      "tz": 8
+     },
+     {
+      "name": "秀山",
+      "en": "Xiushan",
+      "lng": 109.0,
+      "tz": 8
+     },
+     {
+      "name": "酉阳",
+      "en": "Youyang",
+      "lng": 108.8,
+      "tz": 8
+     },
+     {
+      "name": "彭水",
+      "en": "Pengshui",
+      "lng": 108.2,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "河北省",
+    "en": "Hebei",
+    "cities": [
+     {
+      "name": "石家庄",
+      "en": "Shijiazhuang",
+      "lng": 114.5,
+      "tz": 8
+     },
+     {
+      "name": "保定",
+      "en": "Baoding",
+      "lng": 115.5,
+      "tz": 8
+     },
+     {
+      "name": "唐山",
+      "en": "Tangshan",
+      "lng": 118.2,
+      "tz": 8
+     },
+     {
+      "name": "秦皇岛",
+      "en": "Qinhuangdao",
+      "lng": 119.6,
+      "tz": 8
+     },
+     {
+      "name": "廊坊",
+      "en": "Langfang",
+      "lng": 116.7,
+      "tz": 8
+     },
+     {
+      "name": "张家口",
+      "en": "Zhangjiakou",
+      "lng": 114.9,
+      "tz": 8
+     },
+     {
+      "name": "承德",
+      "en": "Chengde",
+      "lng": 117.9,
+      "tz": 8
+     },
+     {
+      "name": "沧州",
+      "en": "Cangzhou",
+      "lng": 116.8,
+      "tz": 8
+     },
+     {
+      "name": "邯郸",
+      "en": "Handan",
+      "lng": 114.5,
+      "tz": 8
+     },
+     {
+      "name": "衡水",
+      "en": "Hengshui",
+      "lng": 115.7,
+      "tz": 8
+     },
+     {
+      "name": "邢台",
+      "en": "Xingtai",
+      "lng": 114.5,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "山西省",
+    "en": "Shanxi",
+    "cities": [
+     {
+      "name": "太原",
+      "en": "Taiyuan",
+      "lng": 112.6,
+      "tz": 8
+     },
+     {
+      "name": "大同",
+      "en": "Datong",
+      "lng": 113.3,
+      "tz": 8
+     },
+     {
+      "name": "长治",
+      "en": "Changzhi",
+      "lng": 113.1,
+      "tz": 8
+     },
+     {
+      "name": "晋城",
+      "en": "Jincheng",
+      "lng": 112.9,
+      "tz": 8
+     },
+     {
+      "name": "朔州",
+      "en": "Shuozhou",
+      "lng": 112.4,
+      "tz": 8
+     },
+     {
+      "name": "晋中",
+      "en": "Jinzhong",
+      "lng": 112.8,
+      "tz": 8
+     },
+     {
+      "name": "运城",
+      "en": "Yuncheng",
+      "lng": 111.0,
+      "tz": 8
+     },
+     {
+      "name": "忻州",
+      "en": "Xinzhou",
+      "lng": 112.7,
+      "tz": 8
+     },
+     {
+      "name": "临汾",
+      "en": "Linfen",
+      "lng": 111.5,
+      "tz": 8
+     },
+     {
+      "name": "吕梁",
+      "en": "Lyuliang",
+      "lng": 111.1,
+      "tz": 8
+     },
+     {
+      "name": "阳泉",
+      "en": "Yangquan",
+      "lng": 113.6,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "内蒙古自治区",
+    "en": "Inner Mongolia",
+    "cities": [
+     {
+      "name": "呼和浩特",
+      "en": "Hohhot",
+      "lng": 111.7,
+      "tz": 8
+     },
+     {
+      "name": "包头",
+      "en": "Baotou",
+      "lng": 110.0,
+      "tz": 8
+     },
+     {
+      "name": "鄂尔多斯",
+      "en": "Ordos",
+      "lng": 109.8,
+      "tz": 8
+     },
+     {
+      "name": "赤峰",
+      "en": "Chifeng",
+      "lng": 118.9,
+      "tz": 8
+     },
+     {
+      "name": "通辽",
+      "en": "Tongliao",
+      "lng": 122.3,
+      "tz": 8
+     },
+     {
+      "name": "呼伦贝尔",
+      "en": "Hulunbuir",
+      "lng": 119.7,
+      "tz": 8
+     },
+     {
+      "name": "乌兰察布",
+      "en": "Ulanqab",
+      "lng": 113.1,
+      "tz": 8
+     },
+     {
+      "name": "巴彦淖尔",
+      "en": "Bayannur",
+      "lng": 107.4,
+      "tz": 8
+     },
+     {
+      "name": "锡林郭勒",
+      "en": "Xilingol",
+      "lng": 116.1,
+      "tz": 8
+     },
+     {
+      "name": "乌海",
+      "en": "Wuhai",
+      "lng": 106.8,
+      "tz": 8
+     },
+     {
+      "name": "兴安盟",
+      "en": "Hinggan League",
+      "lng": 122.1,
+      "tz": 8
+     },
+     {
+      "name": "阿拉善盟",
+      "en": "Alxa League",
+      "lng": 105.7,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "辽宁省",
+    "en": "Liaoning",
+    "cities": [
+     {
+      "name": "沈阳",
+      "en": "Shenyang",
+      "lng": 123.4,
+      "tz": 8
+     },
+     {
+      "name": "大连",
+      "en": "Dalian",
+      "lng": 121.6,
+      "tz": 8
+     },
+     {
+      "name": "鞍山",
+      "en": "Anshan",
+      "lng": 122.9,
+      "tz": 8
+     },
+     {
+      "name": "抚顺",
+      "en": "Fushun",
+      "lng": 123.9,
+      "tz": 8
+     },
+     {
+      "name": "本溪",
+      "en": "Benxi",
+      "lng": 123.8,
+      "tz": 8
+     },
+     {
+      "name": "丹东",
+      "en": "Dandong",
+      "lng": 124.4,
+      "tz": 8
+     },
+     {
+      "name": "锦州",
+      "en": "Jinzhou",
+      "lng": 121.1,
+      "tz": 8
+     },
+     {
+      "name": "营口",
+      "en": "Yingkou",
+      "lng": 122.2,
+      "tz": 8
+     },
+     {
+      "name": "阜新",
+      "en": "Fuxin",
+      "lng": 121.7,
+      "tz": 8
+     },
+     {
+      "name": "辽阳",
+      "en": "Liaoyang",
+      "lng": 123.2,
+      "tz": 8
+     },
+     {
+      "name": "朝阳",
+      "en": "Chaoyang",
+      "lng": 120.5,
+      "tz": 8
+     },
+     {
+      "name": "盘锦",
+      "en": "Panjin",
+      "lng": 122.1,
+      "tz": 8
+     },
+     {
+      "name": "葫芦岛",
+      "en": "Huludao",
+      "lng": 120.8,
+      "tz": 8
+     },
+     {
+      "name": "铁岭",
+      "en": "Tieling",
+      "lng": 123.8,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "吉林省",
+    "en": "Jilin Province",
+    "cities": [
+     {
+      "name": "长春",
+      "en": "Changchun",
+      "lng": 125.4,
+      "tz": 8
+     },
+     {
+      "name": "吉林",
+      "en": "Jilin",
+      "lng": 126.6,
+      "tz": 8
+     },
+     {
+      "name": "四平",
+      "en": "Siping",
+      "lng": 124.4,
+      "tz": 8
+     },
+     {
+      "name": "辽源",
+      "en": "Liaoyuan",
+      "lng": 125.1,
+      "tz": 8
+     },
+     {
+      "name": "通化",
+      "en": "Tonghua",
+      "lng": 125.9,
+      "tz": 8
+     },
+     {
+      "name": "白山",
+      "en": "Baishan",
+      "lng": 126.4,
+      "tz": 8
+     },
+     {
+      "name": "松原",
+      "en": "Songyuan",
+      "lng": 124.8,
+      "tz": 8
+     },
+     {
+      "name": "白城",
+      "en": "Baicheng",
+      "lng": 122.8,
+      "tz": 8
+     },
+     {
+      "name": "延边",
+      "en": "Yanbian",
+      "lng": 129.5,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "黑龙江省",
+    "en": "Heilongjiang",
+    "cities": [
+     {
+      "name": "哈尔滨",
+      "en": "Harbin",
+      "lng": 126.5,
+      "tz": 8
+     },
+     {
+      "name": "齐齐哈尔",
+      "en": "Qiqihar",
+      "lng": 123.9,
+      "tz": 8
+     },
+     {
+      "name": "牡丹江",
+      "en": "Mudanjiang",
+      "lng": 129.6,
+      "tz": 8
+     },
+     {
+      "name": "佳木斯",
+      "en": "Jiamusi",
+      "lng": 130.4,
+      "tz": 8
+     },
+     {
+      "name": "大庆",
+      "en": "Daqing",
+      "lng": 125.0,
+      "tz": 8
+     },
+     {
+      "name": "绥化",
+      "en": "Suihua",
+      "lng": 126.9,
+      "tz": 8
+     },
+     {
+      "name": "鸡西",
+      "en": "Jixi",
+      "lng": 130.9,
+      "tz": 8
+     },
+     {
+      "name": "双鸭山",
+      "en": "Shuangyashan",
+      "lng": 131.2,
+      "tz": 8
+     },
+     {
+      "name": "伊春",
+      "en": "Yichun",
+      "lng": 128.9,
+      "tz": 8
+     },
+     {
+      "name": "七台河",
+      "en": "Qitaihe",
+      "lng": 130.8,
+      "tz": 8
+     },
+     {
+      "name": "抚远（中国最东）",
+      "en": "Fuyuan (easternmost point of China)",
+      "lng": 134.3,
+      "tz": 8
+     },
+     {
+      "name": "鹤岗",
+      "en": "Hegang",
+      "lng": 130.3,
+      "tz": 8
+     },
+     {
+      "name": "黑河",
+      "en": "Heihe",
+      "lng": 127.5,
+      "tz": 8
+     },
+     {
+      "name": "大兴安岭",
+      "en": "Greater Khingan",
+      "lng": 124.1,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "江苏省",
+    "en": "Jiangsu",
+    "cities": [
+     {
+      "name": "南京",
+      "en": "Nanjing",
+      "lng": 118.8,
+      "tz": 8
+     },
+     {
+      "name": "苏州",
+      "en": "Suzhou",
+      "lng": 120.6,
+      "tz": 8
+     },
+     {
+      "name": "无锡",
+      "en": "Wuxi",
+      "lng": 120.3,
+      "tz": 8
+     },
+     {
+      "name": "常州",
+      "en": "Changzhou",
+      "lng": 119.9,
+      "tz": 8
+     },
+     {
+      "name": "南通",
+      "en": "Nantong",
+      "lng": 120.9,
+      "tz": 8
+     },
+     {
+      "name": "扬州",
+      "en": "Yangzhou",
+      "lng": 119.4,
+      "tz": 8
+     },
+     {
+      "name": "徐州",
+      "en": "Xuzhou",
+      "lng": 117.2,
+      "tz": 8
+     },
+     {
+      "name": "连云港",
+      "en": "Lianyungang",
+      "lng": 119.2,
+      "tz": 8
+     },
+     {
+      "name": "淮安",
+      "en": "Huai'an",
+      "lng": 119.0,
+      "tz": 8
+     },
+     {
+      "name": "盐城",
+      "en": "Yancheng",
+      "lng": 120.2,
+      "tz": 8
+     },
+     {
+      "name": "镇江",
+      "en": "Zhenjiang",
+      "lng": 119.5,
+      "tz": 8
+     },
+     {
+      "name": "泰州",
+      "en": "Taizhou",
+      "lng": 119.9,
+      "tz": 8
+     },
+     {
+      "name": "宿迁",
+      "en": "Suqian",
+      "lng": 118.3,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "浙江省",
+    "en": "Zhejiang",
+    "cities": [
+     {
+      "name": "杭州",
+      "en": "Hangzhou",
+      "lng": 120.1,
+      "tz": 8
+     },
+     {
+      "name": "宁波",
+      "en": "Ningbo",
+      "lng": 121.6,
+      "tz": 8
+     },
+     {
+      "name": "温州",
+      "en": "Wenzhou",
+      "lng": 120.7,
+      "tz": 8
+     },
+     {
+      "name": "嘉兴",
+      "en": "Jiaxing",
+      "lng": 120.8,
+      "tz": 8
+     },
+     {
+      "name": "湖州",
+      "en": "Huzhou",
+      "lng": 120.1,
+      "tz": 8
+     },
+     {
+      "name": "绍兴",
+      "en": "Shaoxing",
+      "lng": 120.6,
+      "tz": 8
+     },
+     {
+      "name": "金华",
+      "en": "Jinhua",
+      "lng": 119.6,
+      "tz": 8
+     },
+     {
+      "name": "衢州",
+      "en": "Quzhou",
+      "lng": 118.9,
+      "tz": 8
+     },
+     {
+      "name": "舟山",
+      "en": "Zhoushan",
+      "lng": 122.1,
+      "tz": 8
+     },
+     {
+      "name": "台州",
+      "en": "Taizhou",
+      "lng": 121.4,
+      "tz": 8
+     },
+     {
+      "name": "丽水",
+      "en": "Lishui",
+      "lng": 119.9,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "安徽省",
+    "en": "Anhui",
+    "cities": [
+     {
+      "name": "合肥",
+      "en": "Hefei",
+      "lng": 117.3,
+      "tz": 8
+     },
+     {
+      "name": "芜湖",
+      "en": "Wuhu",
+      "lng": 118.4,
+      "tz": 8
+     },
+     {
+      "name": "蚌埠",
+      "en": "Bengbu",
+      "lng": 117.4,
+      "tz": 8
+     },
+     {
+      "name": "淮南",
+      "en": "Huainan",
+      "lng": 117.0,
+      "tz": 8
+     },
+     {
+      "name": "马鞍山",
+      "en": "Ma'anshan",
+      "lng": 118.5,
+      "tz": 8
+     },
+     {
+      "name": "淮北",
+      "en": "Huaibei",
+      "lng": 116.8,
+      "tz": 8
+     },
+     {
+      "name": "铜陵",
+      "en": "Tongling",
+      "lng": 117.8,
+      "tz": 8
+     },
+     {
+      "name": "安庆",
+      "en": "Anqing",
+      "lng": 117.1,
+      "tz": 8
+     },
+     {
+      "name": "黄山",
+      "en": "Huangshan",
+      "lng": 118.3,
+      "tz": 8
+     },
+     {
+      "name": "滁州",
+      "en": "Chuzhou",
+      "lng": 118.3,
+      "tz": 8
+     },
+     {
+      "name": "阜阳",
+      "en": "Fuyang",
+      "lng": 115.8,
+      "tz": 8
+     },
+     {
+      "name": "宿州",
+      "en": "Suzhou",
+      "lng": 116.9,
+      "tz": 8
+     },
+     {
+      "name": "六安",
+      "en": "Lu'an",
+      "lng": 116.5,
+      "tz": 8
+     },
+     {
+      "name": "亳州",
+      "en": "Bozhou",
+      "lng": 115.8,
+      "tz": 8
+     },
+     {
+      "name": "池州",
+      "en": "Chizhou",
+      "lng": 117.5,
+      "tz": 8
+     },
+     {
+      "name": "宣城",
+      "en": "Xuancheng",
+      "lng": 118.8,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "福建省",
+    "en": "Fujian",
+    "cities": [
+     {
+      "name": "福州",
+      "en": "Fuzhou",
+      "lng": 119.3,
+      "tz": 8
+     },
+     {
+      "name": "厦门",
+      "en": "Xiamen",
+      "lng": 118.1,
+      "tz": 8
+     },
+     {
+      "name": "莆田",
+      "en": "Putian",
+      "lng": 119.0,
+      "tz": 8
+     },
+     {
+      "name": "三明",
+      "en": "Sanming",
+      "lng": 117.6,
+      "tz": 8
+     },
+     {
+      "name": "泉州",
+      "en": "Quanzhou",
+      "lng": 118.7,
+      "tz": 8
+     },
+     {
+      "name": "漳州",
+      "en": "Zhangzhou",
+      "lng": 117.6,
+      "tz": 8
+     },
+     {
+      "name": "南平",
+      "en": "Nanping",
+      "lng": 118.2,
+      "tz": 8
+     },
+     {
+      "name": "龙岩",
+      "en": "Longyan",
+      "lng": 117.0,
+      "tz": 8
+     },
+     {
+      "name": "宁德",
+      "en": "Ningde",
+      "lng": 119.5,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "江西省",
+    "en": "Jiangxi",
+    "cities": [
+     {
+      "name": "南昌",
+      "en": "Nanchang",
+      "lng": 115.9,
+      "tz": 8
+     },
+     {
+      "name": "景德镇",
+      "en": "Jingdezhen",
+      "lng": 117.2,
+      "tz": 8
+     },
+     {
+      "name": "萍乡",
+      "en": "Pingxiang",
+      "lng": 113.9,
+      "tz": 8
+     },
+     {
+      "name": "九江",
+      "en": "Jiujiang",
+      "lng": 116.0,
+      "tz": 8
+     },
+     {
+      "name": "新余",
+      "en": "Xinyu",
+      "lng": 114.9,
+      "tz": 8
+     },
+     {
+      "name": "鹰潭",
+      "en": "Yingtan",
+      "lng": 117.1,
+      "tz": 8
+     },
+     {
+      "name": "赣州",
+      "en": "Ganzhou",
+      "lng": 114.9,
+      "tz": 8
+     },
+     {
+      "name": "吉安",
+      "en": "Ji'an",
+      "lng": 114.9,
+      "tz": 8
+     },
+     {
+      "name": "宜春",
+      "en": "Yichun",
+      "lng": 114.4,
+      "tz": 8
+     },
+     {
+      "name": "抚州",
+      "en": "Fuzhou",
+      "lng": 116.4,
+      "tz": 8
+     },
+     {
+      "name": "上饶",
+      "en": "Shangrao",
+      "lng": 117.9,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "山东省",
+    "en": "Shandong",
+    "cities": [
+     {
+      "name": "济南",
+      "en": "Jinan",
+      "lng": 117.0,
+      "tz": 8
+     },
+     {
+      "name": "青岛",
+      "en": "Qingdao",
+      "lng": 120.4,
+      "tz": 8
+     },
+     {
+      "name": "淄博",
+      "en": "Zibo",
+      "lng": 118.1,
+      "tz": 8
+     },
+     {
+      "name": "枣庄",
+      "en": "Zaozhuang",
+      "lng": 117.6,
+      "tz": 8
+     },
+     {
+      "name": "东营",
+      "en": "Dongying",
+      "lng": 118.7,
+      "tz": 8
+     },
+     {
+      "name": "烟台",
+      "en": "Yantai",
+      "lng": 121.4,
+      "tz": 8
+     },
+     {
+      "name": "潍坊",
+      "en": "Weifang",
+      "lng": 119.1,
+      "tz": 8
+     },
+     {
+      "name": "济宁",
+      "en": "Jining",
+      "lng": 116.6,
+      "tz": 8
+     },
+     {
+      "name": "泰安",
+      "en": "Taian",
+      "lng": 117.1,
+      "tz": 8
+     },
+     {
+      "name": "威海",
+      "en": "Weihai",
+      "lng": 122.1,
+      "tz": 8
+     },
+     {
+      "name": "日照",
+      "en": "Rizhao",
+      "lng": 119.5,
+      "tz": 8
+     },
+     {
+      "name": "临沂",
+      "en": "Linyi",
+      "lng": 118.4,
+      "tz": 8
+     },
+     {
+      "name": "德州",
+      "en": "Dezhou",
+      "lng": 116.4,
+      "tz": 8
+     },
+     {
+      "name": "聊城",
+      "en": "Liaocheng",
+      "lng": 116.0,
+      "tz": 8
+     },
+     {
+      "name": "滨州",
+      "en": "Binzhou",
+      "lng": 118.0,
+      "tz": 8
+     },
+     {
+      "name": "菏泽",
+      "en": "Heze",
+      "lng": 115.5,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "河南省",
+    "en": "Henan",
+    "cities": [
+     {
+      "name": "郑州",
+      "en": "Zhengzhou",
+      "lng": 113.6,
+      "tz": 8
+     },
+     {
+      "name": "开封",
+      "en": "Kaifeng",
+      "lng": 114.3,
+      "tz": 8
+     },
+     {
+      "name": "洛阳",
+      "en": "Luoyang",
+      "lng": 112.5,
+      "tz": 8
+     },
+     {
+      "name": "平顶山",
+      "en": "Pingdingshan",
+      "lng": 113.3,
+      "tz": 8
+     },
+     {
+      "name": "安阳",
+      "en": "Anyang",
+      "lng": 114.4,
+      "tz": 8
+     },
+     {
+      "name": "鹤壁",
+      "en": "Hebi",
+      "lng": 114.3,
+      "tz": 8
+     },
+     {
+      "name": "新乡",
+      "en": "Xinxiang",
+      "lng": 113.9,
+      "tz": 8
+     },
+     {
+      "name": "焦作",
+      "en": "Jiaozuo",
+      "lng": 113.2,
+      "tz": 8
+     },
+     {
+      "name": "濮阳",
+      "en": "Puyang",
+      "lng": 115.0,
+      "tz": 8
+     },
+     {
+      "name": "许昌",
+      "en": "Xuchang",
+      "lng": 113.8,
+      "tz": 8
+     },
+     {
+      "name": "漯河",
+      "en": "Luohe",
+      "lng": 114.0,
+      "tz": 8
+     },
+     {
+      "name": "三门峡",
+      "en": "Sanmenxia",
+      "lng": 111.2,
+      "tz": 8
+     },
+     {
+      "name": "南阳",
+      "en": "Nanyang",
+      "lng": 112.5,
+      "tz": 8
+     },
+     {
+      "name": "商丘",
+      "en": "Shangqiu",
+      "lng": 115.6,
+      "tz": 8
+     },
+     {
+      "name": "信阳",
+      "en": "Xinyang",
+      "lng": 114.1,
+      "tz": 8
+     },
+     {
+      "name": "周口",
+      "en": "Zhoukou",
+      "lng": 114.7,
+      "tz": 8
+     },
+     {
+      "name": "驻马店",
+      "en": "Zhumadian",
+      "lng": 114.0,
+      "tz": 8
+     },
+     {
+      "name": "济源",
+      "en": "Jiyuan",
+      "lng": 112.6,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "湖北省",
+    "en": "Hubei",
+    "cities": [
+     {
+      "name": "武汉",
+      "en": "Wuhan",
+      "lng": 114.3,
+      "tz": 8
+     },
+     {
+      "name": "黄石",
+      "en": "Huangshi",
+      "lng": 115.0,
+      "tz": 8
+     },
+     {
+      "name": "十堰",
+      "en": "Shiyan",
+      "lng": 110.8,
+      "tz": 8
+     },
+     {
+      "name": "宜昌",
+      "en": "Yichang",
+      "lng": 111.3,
+      "tz": 8
+     },
+     {
+      "name": "襄阳",
+      "en": "Xiangyang",
+      "lng": 112.1,
+      "tz": 8
+     },
+     {
+      "name": "鄂州",
+      "en": "Ezhou",
+      "lng": 114.9,
+      "tz": 8
+     },
+     {
+      "name": "荆门",
+      "en": "Jingmen",
+      "lng": 112.2,
+      "tz": 8
+     },
+     {
+      "name": "孝感",
+      "en": "Xiaogan",
+      "lng": 113.9,
+      "tz": 8
+     },
+     {
+      "name": "荆州",
+      "en": "Jingzhou",
+      "lng": 112.2,
+      "tz": 8
+     },
+     {
+      "name": "黄冈",
+      "en": "Huanggang",
+      "lng": 114.9,
+      "tz": 8
+     },
+     {
+      "name": "咸宁",
+      "en": "Xianning",
+      "lng": 114.3,
+      "tz": 8
+     },
+     {
+      "name": "随州",
+      "en": "Suizhou",
+      "lng": 113.4,
+      "tz": 8
+     },
+     {
+      "name": "恩施",
+      "en": "Enshi",
+      "lng": 109.5,
+      "tz": 8
+     },
+     {
+      "name": "仙桃",
+      "en": "Xiantao",
+      "lng": 113.4,
+      "tz": 8
+     },
+     {
+      "name": "潜江",
+      "en": "Qianjiang",
+      "lng": 112.9,
+      "tz": 8
+     },
+     {
+      "name": "天门",
+      "en": "Tianmen",
+      "lng": 113.2,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "湖南省",
+    "en": "Hunan",
+    "cities": [
+     {
+      "name": "长沙",
+      "en": "Changsha",
+      "lng": 113.0,
+      "tz": 8
+     },
+     {
+      "name": "株洲",
+      "en": "Zhuzhou",
+      "lng": 113.1,
+      "tz": 8
+     },
+     {
+      "name": "湘潭",
+      "en": "Xiangtan",
+      "lng": 112.9,
+      "tz": 8
+     },
+     {
+      "name": "衡阳",
+      "en": "Hengyang",
+      "lng": 112.6,
+      "tz": 8
+     },
+     {
+      "name": "邵阳",
+      "en": "Shaoyang",
+      "lng": 111.5,
+      "tz": 8
+     },
+     {
+      "name": "岳阳",
+      "en": "Yueyang",
+      "lng": 113.1,
+      "tz": 8
+     },
+     {
+      "name": "常德",
+      "en": "Changde",
+      "lng": 111.7,
+      "tz": 8
+     },
+     {
+      "name": "张家界",
+      "en": "Zhangjiajie",
+      "lng": 110.5,
+      "tz": 8
+     },
+     {
+      "name": "益阳",
+      "en": "Yiyang",
+      "lng": 112.4,
+      "tz": 8
+     },
+     {
+      "name": "郴州",
+      "en": "Chenzhou",
+      "lng": 113.0,
+      "tz": 8
+     },
+     {
+      "name": "永州",
+      "en": "Yongzhou",
+      "lng": 111.6,
+      "tz": 8
+     },
+     {
+      "name": "怀化",
+      "en": "Huaihua",
+      "lng": 110.0,
+      "tz": 8
+     },
+     {
+      "name": "娄底",
+      "en": "Loudi",
+      "lng": 112.0,
+      "tz": 8
+     },
+     {
+      "name": "湘西",
+      "en": "Xiangxi",
+      "lng": 109.7,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "广东省",
+    "en": "Guangdong",
+    "cities": [
+     {
+      "name": "广州",
+      "en": "Guangzhou",
+      "lng": 113.3,
+      "tz": 8
+     },
+     {
+      "name": "深圳",
+      "en": "Shenzhen",
+      "lng": 114.1,
+      "tz": 8
+     },
+     {
+      "name": "珠海",
+      "en": "Zhuhai",
+      "lng": 113.6,
+      "tz": 8
+     },
+     {
+      "name": "佛山",
+      "en": "Foshan",
+      "lng": 113.1,
+      "tz": 8
+     },
+     {
+      "name": "东莞",
+      "en": "Dongguan",
+      "lng": 113.8,
+      "tz": 8
+     },
+     {
+      "name": "中山",
+      "en": "Zhongshan",
+      "lng": 113.4,
+      "tz": 8
+     },
+     {
+      "name": "江门",
+      "en": "Jiangmen",
+      "lng": 113.1,
+      "tz": 8
+     },
+     {
+      "name": "惠州",
+      "en": "Huizhou",
+      "lng": 114.4,
+      "tz": 8
+     },
+     {
+      "name": "汕头",
+      "en": "Shantou",
+      "lng": 116.7,
+      "tz": 8
+     },
+     {
+      "name": "湛江",
+      "en": "Zhanjiang",
+      "lng": 110.4,
+      "tz": 8
+     },
+     {
+      "name": "茂名",
+      "en": "Maoming",
+      "lng": 110.9,
+      "tz": 8
+     },
+     {
+      "name": "肇庆",
+      "en": "Zhaoqing",
+      "lng": 112.5,
+      "tz": 8
+     },
+     {
+      "name": "梅州",
+      "en": "Meizhou",
+      "lng": 116.1,
+      "tz": 8
+     },
+     {
+      "name": "韶关",
+      "en": "Shaoguan",
+      "lng": 113.6,
+      "tz": 8
+     },
+     {
+      "name": "阳江",
+      "en": "Yangjiang",
+      "lng": 111.9,
+      "tz": 8
+     },
+     {
+      "name": "清远",
+      "en": "Qingyuan",
+      "lng": 113.1,
+      "tz": 8
+     },
+     {
+      "name": "潮州",
+      "en": "Chaozhou",
+      "lng": 116.6,
+      "tz": 8
+     },
+     {
+      "name": "揭阳",
+      "en": "Jieyang",
+      "lng": 116.4,
+      "tz": 8
+     },
+     {
+      "name": "云浮",
+      "en": "Yunfu",
+      "lng": 112.0,
+      "tz": 8
+     },
+     {
+      "name": "汕尾",
+      "en": "Shanwei",
+      "lng": 115.4,
+      "tz": 8
+     },
+     {
+      "name": "河源",
+      "en": "Heyuan",
+      "lng": 114.7,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "广西壮族自治区",
+    "en": "Guangxi",
+    "cities": [
+     {
+      "name": "南宁",
+      "en": "Nanning",
+      "lng": 108.3,
+      "tz": 8
+     },
+     {
+      "name": "柳州",
+      "en": "Liuzhou",
+      "lng": 109.4,
+      "tz": 8
+     },
+     {
+      "name": "桂林",
+      "en": "Guilin",
+      "lng": 110.3,
+      "tz": 8
+     },
+     {
+      "name": "梧州",
+      "en": "Wuzhou",
+      "lng": 111.3,
+      "tz": 8
+     },
+     {
+      "name": "北海",
+      "en": "Beihai",
+      "lng": 109.1,
+      "tz": 8
+     },
+     {
+      "name": "防城港",
+      "en": "Fangchenggang",
+      "lng": 108.4,
+      "tz": 8
+     },
+     {
+      "name": "钦州",
+      "en": "Qinzhou",
+      "lng": 108.6,
+      "tz": 8
+     },
+     {
+      "name": "贵港",
+      "en": "Guigang",
+      "lng": 109.6,
+      "tz": 8
+     },
+     {
+      "name": "玉林",
+      "en": "Yulin",
+      "lng": 110.2,
+      "tz": 8
+     },
+     {
+      "name": "百色",
+      "en": "Baise",
+      "lng": 106.6,
+      "tz": 8
+     },
+     {
+      "name": "贺州",
+      "en": "Hezhou",
+      "lng": 111.6,
+      "tz": 8
+     },
+     {
+      "name": "河池",
+      "en": "Hechi",
+      "lng": 108.1,
+      "tz": 8
+     },
+     {
+      "name": "来宾",
+      "en": "Laibin",
+      "lng": 109.2,
+      "tz": 8
+     },
+     {
+      "name": "崇左",
+      "en": "Chongzuo",
+      "lng": 107.4,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "海南省",
+    "en": "Hainan",
+    "cities": [
+     {
+      "name": "海口",
+      "en": "Haikou",
+      "lng": 110.3,
+      "tz": 8
+     },
+     {
+      "name": "三亚",
+      "en": "Sanya",
+      "lng": 109.5,
+      "tz": 8
+     },
+     {
+      "name": "儋州",
+      "en": "Danzhou",
+      "lng": 109.6,
+      "tz": 8
+     },
+     {
+      "name": "文昌",
+      "en": "Wenchang",
+      "lng": 110.8,
+      "tz": 8
+     },
+     {
+      "name": "琼海",
+      "en": "Qionghai",
+      "lng": 110.5,
+      "tz": 8
+     },
+     {
+      "name": "万宁",
+      "en": "Wanning",
+      "lng": 110.4,
+      "tz": 8
+     },
+     {
+      "name": "陵水",
+      "en": "Lingshui",
+      "lng": 110.0,
+      "tz": 8
+     },
+     {
+      "name": "乐东",
+      "en": "Ledong",
+      "lng": 109.2,
+      "tz": 8
+     },
+     {
+      "name": "五指山",
+      "en": "Wuzhishan",
+      "lng": 109.5,
+      "tz": 8
+     },
+     {
+      "name": "三沙（中国最南）",
+      "en": "Sansha",
+      "lng": 112.3,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "四川省",
+    "en": "Sichuan",
+    "cities": [
+     {
+      "name": "成都",
+      "en": "Chengdu",
+      "lng": 104.1,
+      "tz": 8
+     },
+     {
+      "name": "绵阳",
+      "en": "Mianyang",
+      "lng": 104.7,
+      "tz": 8
+     },
+     {
+      "name": "德阳",
+      "en": "Deyang",
+      "lng": 104.4,
+      "tz": 8
+     },
+     {
+      "name": "宜宾",
+      "en": "Yibin",
+      "lng": 104.6,
+      "tz": 8
+     },
+     {
+      "name": "泸州",
+      "en": "Luzhou",
+      "lng": 105.4,
+      "tz": 8
+     },
+     {
+      "name": "达州",
+      "en": "Dazhou",
+      "lng": 107.5,
+      "tz": 8
+     },
+     {
+      "name": "南充",
+      "en": "Nanchong",
+      "lng": 106.1,
+      "tz": 8
+     },
+     {
+      "name": "乐山",
+      "en": "Leshan",
+      "lng": 103.8,
+      "tz": 8
+     },
+     {
+      "name": "自贡",
+      "en": "Zigong",
+      "lng": 104.8,
+      "tz": 8
+     },
+     {
+      "name": "攀枝花",
+      "en": "Panzhihua",
+      "lng": 101.7,
+      "tz": 8
+     },
+     {
+      "name": "遂宁",
+      "en": "Suining",
+      "lng": 105.6,
+      "tz": 8
+     },
+     {
+      "name": "内江",
+      "en": "Neijiang",
+      "lng": 105.1,
+      "tz": 8
+     },
+     {
+      "name": "广元",
+      "en": "Guangyuan",
+      "lng": 105.8,
+      "tz": 8
+     },
+     {
+      "name": "雅安",
+      "en": "Ya'an",
+      "lng": 103.0,
+      "tz": 8
+     },
+     {
+      "name": "巴中",
+      "en": "Bazhong",
+      "lng": 106.8,
+      "tz": 8
+     },
+     {
+      "name": "资阳",
+      "en": "Ziyang",
+      "lng": 104.6,
+      "tz": 8
+     },
+     {
+      "name": "广安",
+      "en": "Guang'an",
+      "lng": 106.6,
+      "tz": 8
+     },
+     {
+      "name": "眉山",
+      "en": "Meishan",
+      "lng": 103.8,
+      "tz": 8
+     },
+     {
+      "name": "凉山",
+      "en": "Liangshan",
+      "lng": 102.3,
+      "tz": 8
+     },
+     {
+      "name": "甘孜",
+      "en": "Garze",
+      "lng": 101.9,
+      "tz": 8
+     },
+     {
+      "name": "阿坝",
+      "en": "Ngawa",
+      "lng": 102.2,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "贵州省",
+    "en": "Guizhou",
+    "cities": [
+     {
+      "name": "贵阳",
+      "en": "Guiyang",
+      "lng": 106.7,
+      "tz": 8
+     },
+     {
+      "name": "遵义",
+      "en": "Zunyi",
+      "lng": 106.9,
+      "tz": 8
+     },
+     {
+      "name": "六盘水",
+      "en": "Liupanshui",
+      "lng": 104.8,
+      "tz": 8
+     },
+     {
+      "name": "安顺",
+      "en": "Anshun",
+      "lng": 105.9,
+      "tz": 8
+     },
+     {
+      "name": "毕节",
+      "en": "Bijie",
+      "lng": 105.3,
+      "tz": 8
+     },
+     {
+      "name": "铜仁",
+      "en": "Tongren",
+      "lng": 109.2,
+      "tz": 8
+     },
+     {
+      "name": "黔西南",
+      "en": "Qianxinan",
+      "lng": 104.9,
+      "tz": 8
+     },
+     {
+      "name": "黔东南",
+      "en": "Qiandongnan",
+      "lng": 107.9,
+      "tz": 8
+     },
+     {
+      "name": "黔南",
+      "en": "Qiannan",
+      "lng": 107.5,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "云南省",
+    "en": "Yunnan",
+    "cities": [
+     {
+      "name": "昆明",
+      "en": "Kunming",
+      "lng": 102.7,
+      "tz": 8
+     },
+     {
+      "name": "曲靖",
+      "en": "Qujing",
+      "lng": 103.8,
+      "tz": 8
+     },
+     {
+      "name": "玉溪",
+      "en": "Yuxi",
+      "lng": 102.5,
+      "tz": 8
+     },
+     {
+      "name": "保山",
+      "en": "Baoshan",
+      "lng": 99.2,
+      "tz": 8
+     },
+     {
+      "name": "昭通",
+      "en": "Zhaotong",
+      "lng": 103.7,
+      "tz": 8
+     },
+     {
+      "name": "丽江",
+      "en": "Lijiang",
+      "lng": 100.2,
+      "tz": 8
+     },
+     {
+      "name": "普洱",
+      "en": "Pu'er",
+      "lng": 101.0,
+      "tz": 8
+     },
+     {
+      "name": "临沧",
+      "en": "Lincang",
+      "lng": 100.1,
+      "tz": 8
+     },
+     {
+      "name": "楚雄",
+      "en": "Chuxiong",
+      "lng": 101.5,
+      "tz": 8
+     },
+     {
+      "name": "红河",
+      "en": "Honghe",
+      "lng": 103.5,
+      "tz": 8
+     },
+     {
+      "name": "文山",
+      "en": "Wenshan",
+      "lng": 104.2,
+      "tz": 8
+     },
+     {
+      "name": "西双版纳",
+      "en": "Xishuangbanna",
+      "lng": 100.8,
+      "tz": 8
+     },
+     {
+      "name": "大理",
+      "en": "Dali",
+      "lng": 100.2,
+      "tz": 8
+     },
+     {
+      "name": "德宏",
+      "en": "Dehong",
+      "lng": 98.6,
+      "tz": 8
+     },
+     {
+      "name": "怒江",
+      "en": "Nujiang",
+      "lng": 98.8,
+      "tz": 8
+     },
+     {
+      "name": "迪庆",
+      "en": "Diqing",
+      "lng": 99.7,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "西藏自治区",
+    "en": "Tibet",
+    "cities": [
+     {
+      "name": "拉萨",
+      "en": "Lhasa",
+      "lng": 91.1,
+      "tz": 8
+     },
+     {
+      "name": "日喀则",
+      "en": "Shigatse",
+      "lng": 88.9,
+      "tz": 8
+     },
+     {
+      "name": "昌都",
+      "en": "Chamdo",
+      "lng": 97.2,
+      "tz": 8
+     },
+     {
+      "name": "林芝",
+      "en": "Nyingchi",
+      "lng": 94.4,
+      "tz": 8
+     },
+     {
+      "name": "山南",
+      "en": "Shannan",
+      "lng": 91.8,
+      "tz": 8
+     },
+     {
+      "name": "那曲",
+      "en": "Nagqu",
+      "lng": 92.1,
+      "tz": 8
+     },
+     {
+      "name": "阿里",
+      "en": "Ngari",
+      "lng": 80.1,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "陕西省",
+    "en": "Shaanxi",
+    "cities": [
+     {
+      "name": "西安",
+      "en": "Xi'an",
+      "lng": 108.9,
+      "tz": 8
+     },
+     {
+      "name": "咸阳",
+      "en": "Xianyang",
+      "lng": 108.7,
+      "tz": 8
+     },
+     {
+      "name": "宝鸡",
+      "en": "Baoji",
+      "lng": 107.2,
+      "tz": 8
+     },
+     {
+      "name": "铜川",
+      "en": "Tongchuan",
+      "lng": 109.1,
+      "tz": 8
+     },
+     {
+      "name": "渭南",
+      "en": "Weinan",
+      "lng": 109.5,
+      "tz": 8
+     },
+     {
+      "name": "延安",
+      "en": "Yan'an",
+      "lng": 109.5,
+      "tz": 8
+     },
+     {
+      "name": "汉中",
+      "en": "Hanzhong",
+      "lng": 107.1,
+      "tz": 8
+     },
+     {
+      "name": "榆林",
+      "en": "Yulin",
+      "lng": 109.7,
+      "tz": 8
+     },
+     {
+      "name": "安康",
+      "en": "Ankang",
+      "lng": 109.0,
+      "tz": 8
+     },
+     {
+      "name": "商洛",
+      "en": "Shangluo",
+      "lng": 109.9,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "甘肃省",
+    "en": "Gansu",
+    "cities": [
+     {
+      "name": "兰州",
+      "en": "Lanzhou",
+      "lng": 103.8,
+      "tz": 8
+     },
+     {
+      "name": "嘉峪关",
+      "en": "Jiayuguan",
+      "lng": 98.3,
+      "tz": 8
+     },
+     {
+      "name": "金昌",
+      "en": "Jinchang",
+      "lng": 102.2,
+      "tz": 8
+     },
+     {
+      "name": "白银",
+      "en": "Baiyin",
+      "lng": 104.2,
+      "tz": 8
+     },
+     {
+      "name": "天水",
+      "en": "Tianshui",
+      "lng": 105.7,
+      "tz": 8
+     },
+     {
+      "name": "武威",
+      "en": "Wuwei",
+      "lng": 102.6,
+      "tz": 8
+     },
+     {
+      "name": "张掖",
+      "en": "Zhangye",
+      "lng": 100.5,
+      "tz": 8
+     },
+     {
+      "name": "平凉",
+      "en": "Pingliang",
+      "lng": 106.7,
+      "tz": 8
+     },
+     {
+      "name": "酒泉",
+      "en": "Jiuquan",
+      "lng": 98.5,
+      "tz": 8
+     },
+     {
+      "name": "庆阳",
+      "en": "Qingyang",
+      "lng": 107.6,
+      "tz": 8
+     },
+     {
+      "name": "定西",
+      "en": "Dingxi",
+      "lng": 104.6,
+      "tz": 8
+     },
+     {
+      "name": "陇南",
+      "en": "Longnan",
+      "lng": 104.9,
+      "tz": 8
+     },
+     {
+      "name": "临夏",
+      "en": "Linxia",
+      "lng": 103.2,
+      "tz": 8
+     },
+     {
+      "name": "甘南",
+      "en": "Gannan",
+      "lng": 102.9,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "青海省",
+    "en": "Qinghai",
+    "cities": [
+     {
+      "name": "西宁",
+      "en": "Xining",
+      "lng": 101.8,
+      "tz": 8
+     },
+     {
+      "name": "海东",
+      "en": "Haidong",
+      "lng": 102.1,
+      "tz": 8
+     },
+     {
+      "name": "格尔木",
+      "en": "Golmud",
+      "lng": 94.9,
+      "tz": 8
+     },
+     {
+      "name": "德令哈",
+      "en": "Delingha",
+      "lng": 97.4,
+      "tz": 8
+     },
+     {
+      "name": "玉树",
+      "en": "Yushu",
+      "lng": 97.0,
+      "tz": 8
+     },
+     {
+      "name": "果洛",
+      "en": "Golog",
+      "lng": 100.2,
+      "tz": 8
+     },
+     {
+      "name": "海西",
+      "en": "Haixi",
+      "lng": 97.4,
+      "tz": 8
+     },
+     {
+      "name": "海北",
+      "en": "Haibei",
+      "lng": 100.9,
+      "tz": 8
+     },
+     {
+      "name": "黄南",
+      "en": "Huangnan",
+      "lng": 102.0,
+      "tz": 8
+     },
+     {
+      "name": "海南州",
+      "en": "Hainan Prefecture",
+      "lng": 100.6,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "宁夏回族自治区",
+    "en": "Ningxia",
+    "cities": [
+     {
+      "name": "银川",
+      "en": "Yinchuan",
+      "lng": 106.3,
+      "tz": 8
+     },
+     {
+      "name": "石嘴山",
+      "en": "Shizuishan",
+      "lng": 106.4,
+      "tz": 8
+     },
+     {
+      "name": "吴忠",
+      "en": "Wuzhong",
+      "lng": 106.2,
+      "tz": 8
+     },
+     {
+      "name": "固原",
+      "en": "Guyuan",
+      "lng": 106.3,
+      "tz": 8
+     },
+     {
+      "name": "中卫",
+      "en": "Zhongwei",
+      "lng": 105.2,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "新疆维吾尔自治区",
+    "en": "Xinjiang",
+    "cities": [
+     {
+      "name": "乌鲁木齐",
+      "en": "Urumqi",
+      "lng": 87.6,
+      "tz": 8
+     },
+     {
+      "name": "克拉玛依",
+      "en": "Karamay",
+      "lng": 84.9,
+      "tz": 8
+     },
+     {
+      "name": "吐鲁番",
+      "en": "Turpan",
+      "lng": 89.2,
+      "tz": 8
+     },
+     {
+      "name": "哈密",
+      "en": "Hami",
+      "lng": 93.5,
+      "tz": 8
+     },
+     {
+      "name": "昌吉",
+      "en": "Changji",
+      "lng": 87.3,
+      "tz": 8
+     },
+     {
+      "name": "博尔塔拉",
+      "en": "Bortala",
+      "lng": 82.1,
+      "tz": 8
+     },
+     {
+      "name": "巴音郭楞",
+      "en": "Bayingolin",
+      "lng": 86.2,
+      "tz": 8
+     },
+     {
+      "name": "阿克苏",
+      "en": "Aksu",
+      "lng": 80.3,
+      "tz": 8
+     },
+     {
+      "name": "克孜勒苏",
+      "en": "Kizilsu",
+      "lng": 76.2,
+      "tz": 8
+     },
+     {
+      "name": "喀什",
+      "en": "Kashgar",
+      "lng": 75.9,
+      "tz": 8
+     },
+     {
+      "name": "和田",
+      "en": "Hotan",
+      "lng": 79.9,
+      "tz": 8
+     },
+     {
+      "name": "伊犁",
+      "en": "Ili",
+      "lng": 81.3,
+      "tz": 8
+     },
+     {
+      "name": "塔城",
+      "en": "Tacheng",
+      "lng": 83.0,
+      "tz": 8
+     },
+     {
+      "name": "阿勒泰",
+      "en": "Altay",
+      "lng": 88.1,
+      "tz": 8
+     },
+     {
+      "name": "石河子",
+      "en": "Shihezi",
+      "lng": 86.1,
+      "tz": 8
+     },
+     {
+      "name": "塔什库尔干（中国最西）",
+      "en": "Tashkurgan (westernmost China)",
+      "lng": 75.2,
+      "tz": 8
+     }
+    ]
+   },
+   {
+    "name": "香港特别行政区",
+    "en": "Hong Kong",
+    "cities": [
+     {
+      "name": "香港",
+      "en": "Hong Kong",
+      "lng": 114.2,
+      "tz": 8,
+      "dst": "hk"
+     },
+     {
+      "name": "九龙",
+      "en": "Kowloon",
+      "lng": 114.2,
+      "tz": 8,
+      "dst": "hk"
+     },
+     {
+      "name": "新界",
+      "en": "New Territories",
+      "lng": 114.2,
+      "tz": 8,
+      "dst": "hk"
+     }
+    ]
+   },
+   {
+    "name": "澳门特别行政区",
+    "en": "Macau",
+    "cities": [
+     {
+      "name": "澳门",
+      "en": "Macau",
+      "lng": 113.5,
+      "tz": 8,
+      "dst": "mo"
+     },
+     {
+      "name": "氹仔",
+      "en": "Taipa",
+      "lng": 113.6,
+      "tz": 8,
+      "dst": "mo"
+     },
+     {
+      "name": "路环",
+      "en": "Coloane",
+      "lng": 113.6,
+      "tz": 8,
+      "dst": "mo"
+     }
+    ]
+   },
+   {
+    "name": "台湾省",
+    "en": "Taiwan",
+    "cities": [
+     {
+      "name": "台北",
+      "en": "Taipei",
+      "lng": 121.5,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "新北",
+      "en": "New Taipei",
+      "lng": 121.5,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "桃园",
+      "en": "Taoyuan",
+      "lng": 121.3,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "台中",
+      "en": "Taichung",
+      "lng": 120.7,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "台南",
+      "en": "Tainan",
+      "lng": 120.2,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "高雄",
+      "en": "Kaohsiung",
+      "lng": 120.3,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "基隆",
+      "en": "Keelung",
+      "lng": 121.7,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "新竹",
+      "en": "Hsinchu",
+      "lng": 120.9,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "嘉义",
+      "en": "Chiayi",
+      "lng": 120.4,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "苗栗",
+      "en": "Miaoli",
+      "lng": 120.8,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "彰化",
+      "en": "Changhua",
+      "lng": 120.5,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "南投",
+      "en": "Nantou",
+      "lng": 120.7,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "云林",
+      "en": "Yunlin",
+      "lng": 120.5,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "屏东",
+      "en": "Pingtung",
+      "lng": 120.5,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "宜兰",
+      "en": "Yilan",
+      "lng": 121.7,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "花莲",
+      "en": "Hualien",
+      "lng": 121.6,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "台东",
+      "en": "Taitung",
+      "lng": 121.1,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "澎湖",
+      "en": "Penghu",
+      "lng": 119.6,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "金门",
+      "en": "Kinmen",
+      "lng": 118.3,
+      "tz": 8,
+      "dst": "tw"
+     },
+     {
+      "name": "连江",
+      "en": "Lienchiang",
+      "lng": 119.9,
+      "tz": 8,
+      "dst": "tw"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "菲律宾",
+  "en": "Philippines",
+  "cities": [
+   {
+    "name": "马尼拉",
+    "en": "Manila",
+    "lng": 120.98,
+    "tz": 8
+   },
+   {
+    "name": "宿务",
+    "en": "Cebu",
+    "lng": 123.9,
+    "tz": 8
+   },
+   {
+    "name": "达沃",
+    "en": "Davao",
+    "lng": 125.61,
+    "tz": 8
+   },
+   {
+    "name": "奎松市",
+    "en": "Quezon City",
+    "lng": 121.04,
+    "tz": 8
+   }
+  ]
+ },
+ {
+  "name": "马来西亚",
+  "en": "Malaysia",
+  "cities": [
+   {
+    "name": "吉隆坡",
+    "en": "Kuala Lumpur",
+    "lng": 101.69,
+    "tz": 8
+   },
+   {
+    "name": "槟城",
+    "en": "Penang",
+    "lng": 100.33,
+    "tz": 8
+   },
+   {
+    "name": "新山",
+    "en": "Johor Bahru",
+    "lng": 103.74,
+    "tz": 8
+   },
+   {
+    "name": "古晋",
+    "en": "Kuching",
+    "lng": 110.36,
+    "tz": 8
+   },
+   {
+    "name": "亚庇",
+    "en": "Kota Kinabalu",
+    "lng": 116.07,
+    "tz": 8
+   }
+  ]
+ },
+ {
+  "name": "新加坡",
+  "en": "Singapore",
+  "cities": [
+   {
+    "name": "新加坡",
+    "en": "Singapore",
+    "lng": 103.85,
+    "tz": 8
+   }
+  ]
+ },
+ {
+  "name": "印度尼西亚",
+  "en": "Indonesia",
+  "cities": [
+   {
+    "name": "雅加达",
+    "en": "Jakarta",
+    "lng": 106.85,
+    "tz": 7
+   },
+   {
+    "name": "巴厘岛登巴萨",
+    "en": "Denpasar",
+    "lng": 115.22,
+    "tz": 8
+   },
+   {
+    "name": "泗水",
+    "en": "Surabaya",
+    "lng": 112.75,
+    "tz": 7
+   },
+   {
+    "name": "棉兰",
+    "en": "Medan",
+    "lng": 98.67,
+    "tz": 7
+   }
+  ]
+ },
+ {
+  "name": "泰国",
+  "en": "Thailand",
+  "cities": [
+   {
+    "name": "曼谷",
+    "en": "Bangkok",
+    "lng": 100.5,
+    "tz": 7
+   },
+   {
+    "name": "清迈",
+    "en": "Chiang Mai",
+    "lng": 98.98,
+    "tz": 7
+   },
+   {
+    "name": "普吉",
+    "en": "Phuket",
+    "lng": 98.39,
+    "tz": 7
+   }
+  ]
+ },
+ {
+  "name": "越南",
+  "en": "Vietnam",
+  "cities": [
+   {
+    "name": "河内",
+    "en": "Hanoi",
+    "lng": 105.85,
+    "tz": 7
+   },
+   {
+    "name": "胡志明市",
+    "en": "Ho Chi Minh City",
+    "lng": 106.66,
+    "tz": 7
+   },
+   {
+    "name": "岘港",
+    "en": "Da Nang",
+    "lng": 108.21,
+    "tz": 7
+   }
+  ]
+ },
+ {
+  "name": "日本",
+  "en": "Japan",
+  "cities": [
+   {
+    "name": "东京",
+    "en": "Tokyo",
+    "lng": 139.69,
+    "tz": 9
+   },
+   {
+    "name": "大阪",
+    "en": "Osaka",
+    "lng": 135.5,
+    "tz": 9
+   },
+   {
+    "name": "名古屋",
+    "en": "Nagoya",
+    "lng": 136.91,
+    "tz": 9
+   },
+   {
+    "name": "福冈",
+    "en": "Fukuoka",
+    "lng": 130.4,
+    "tz": 9
+   },
+   {
+    "name": "札幌",
+    "en": "Sapporo",
+    "lng": 141.35,
+    "tz": 9
+   }
+  ]
+ },
+ {
+  "name": "韩国",
+  "en": "South Korea",
+  "cities": [
+   {
+    "name": "首尔",
+    "en": "Seoul",
+    "lng": 126.98,
+    "tz": 9
+   },
+   {
+    "name": "釜山",
+    "en": "Busan",
+    "lng": 129.08,
+    "tz": 9
+   },
+   {
+    "name": "仁川",
+    "en": "Incheon",
+    "lng": 126.71,
+    "tz": 9
+   }
+  ]
+ },
+ {
+  "name": "印度",
+  "en": "India",
+  "cities": [
+   {
+    "name": "新德里",
+    "en": "New Delhi",
+    "lng": 77.21,
+    "tz": 5.5
+   },
+   {
+    "name": "孟买",
+    "en": "Mumbai",
+    "lng": 72.88,
+    "tz": 5.5
+   },
+   {
+    "name": "班加罗尔",
+    "en": "Bangalore",
+    "lng": 77.59,
+    "tz": 5.5
+   }
+  ]
+ },
+ {
+  "name": "阿联酋",
+  "en": "United Arab Emirates",
+  "cities": [
+   {
+    "name": "迪拜",
+    "en": "Dubai",
+    "lng": 55.27,
+    "tz": 4
+   },
+   {
+    "name": "阿布扎比",
+    "en": "Abu Dhabi",
+    "lng": 54.37,
+    "tz": 4
+   }
+  ]
+ },
+ {
+  "name": "英国",
+  "en": "United Kingdom",
+  "cities": [
+   {
+    "name": "伦敦",
+    "en": "London",
+    "lng": -0.13,
+    "tz": 0,
+    "dst": "eu"
+   },
+   {
+    "name": "曼彻斯特",
+    "en": "Manchester",
+    "lng": -2.24,
+    "tz": 0,
+    "dst": "eu"
+   },
+   {
+    "name": "伯明翰",
+    "en": "Birmingham",
+    "lng": -1.89,
+    "tz": 0,
+    "dst": "eu"
+   },
+   {
+    "name": "爱丁堡",
+    "en": "Edinburgh",
+    "lng": -3.19,
+    "tz": 0,
+    "dst": "eu"
+   }
+  ]
+ },
+ {
+  "name": "法国",
+  "en": "France",
+  "cities": [
+   {
+    "name": "巴黎",
+    "en": "Paris",
+    "lng": 2.35,
+    "tz": 1,
+    "dst": "eu"
+   },
+   {
+    "name": "里昂",
+    "en": "Lyon",
+    "lng": 4.83,
+    "tz": 1,
+    "dst": "eu"
+   },
+   {
+    "name": "马赛",
+    "en": "Marseille",
+    "lng": 5.37,
+    "tz": 1,
+    "dst": "eu"
+   }
+  ]
+ },
+ {
+  "name": "德国",
+  "en": "Germany",
+  "cities": [
+   {
+    "name": "柏林",
+    "en": "Berlin",
+    "lng": 13.4,
+    "tz": 1,
+    "dst": "eu"
+   },
+   {
+    "name": "慕尼黑",
+    "en": "Munich",
+    "lng": 11.58,
+    "tz": 1,
+    "dst": "eu"
+   },
+   {
+    "name": "法兰克福",
+    "en": "Frankfurt",
+    "lng": 8.68,
+    "tz": 1,
+    "dst": "eu"
+   },
+   {
+    "name": "汉堡",
+    "en": "Hamburg",
+    "lng": 9.99,
+    "tz": 1,
+    "dst": "eu"
+   }
+  ]
+ },
+ {
+  "name": "意大利",
+  "en": "Italy",
+  "cities": [
+   {
+    "name": "罗马",
+    "en": "Rome",
+    "lng": 12.48,
+    "tz": 1,
+    "dst": "eu"
+   },
+   {
+    "name": "米兰",
+    "en": "Milan",
+    "lng": 9.19,
+    "tz": 1,
+    "dst": "eu"
+   }
+  ]
+ },
+ {
+  "name": "西班牙",
+  "en": "Spain",
+  "cities": [
+   {
+    "name": "马德里",
+    "en": "Madrid",
+    "lng": -3.7,
+    "tz": 1,
+    "dst": "eu"
+   },
+   {
+    "name": "巴塞罗那",
+    "en": "Barcelona",
+    "lng": 2.17,
+    "tz": 1,
+    "dst": "eu"
+   }
+  ]
+ },
+ {
+  "name": "荷兰",
+  "en": "Netherlands",
+  "cities": [
+   {
+    "name": "阿姆斯特丹",
+    "en": "Amsterdam",
+    "lng": 4.9,
+    "tz": 1,
+    "dst": "eu"
+   }
+  ]
+ },
+ {
+  "name": "美国",
+  "en": "United States",
+  "cities": [
+   {
+    "name": "纽约",
+    "en": "New York",
+    "lng": -74.01,
+    "tz": -5,
+    "dst": "us"
+   },
+   {
+    "name": "洛杉矶",
+    "en": "Los Angeles",
+    "lng": -118.24,
+    "tz": -8,
+    "dst": "us"
+   },
+   {
+    "name": "旧金山",
+    "en": "San Francisco",
+    "lng": -122.42,
+    "tz": -8,
+    "dst": "us"
+   },
+   {
+    "name": "芝加哥",
+    "en": "Chicago",
+    "lng": -87.63,
+    "tz": -6,
+    "dst": "us"
+   },
+   {
+    "name": "休斯顿",
+    "en": "Houston",
+    "lng": -95.37,
+    "tz": -6,
+    "dst": "us"
+   },
+   {
+    "name": "西雅图",
+    "en": "Seattle",
+    "lng": -122.33,
+    "tz": -8,
+    "dst": "us"
+   },
+   {
+    "name": "波士顿",
+    "en": "Boston",
+    "lng": -71.06,
+    "tz": -5,
+    "dst": "us"
+   },
+   {
+    "name": "华盛顿",
+    "en": "Washington",
+    "lng": -77.04,
+    "tz": -5,
+    "dst": "us"
+   },
+   {
+    "name": "拉斯维加斯",
+    "en": "Las Vegas",
+    "lng": -115.14,
+    "tz": -8,
+    "dst": "us"
+   },
+   {
+    "name": "檀香山",
+    "en": "Honolulu",
+    "lng": -157.86,
+    "tz": -10
+   }
+  ]
+ },
+ {
+  "name": "加拿大",
+  "en": "Canada",
+  "cities": [
+   {
+    "name": "多伦多",
+    "en": "Toronto",
+    "lng": -79.38,
+    "tz": -5,
+    "dst": "us"
+   },
+   {
+    "name": "温哥华",
+    "en": "Vancouver",
+    "lng": -123.12,
+    "tz": -8,
+    "dst": "us"
+   },
+   {
+    "name": "蒙特利尔",
+    "en": "Montreal",
+    "lng": -73.57,
+    "tz": -5,
+    "dst": "us"
+   },
+   {
+    "name": "卡尔加里",
+    "en": "Calgary",
+    "lng": -114.07,
+    "tz": -7,
+    "dst": "us"
+   }
+  ]
+ },
+ {
+  "name": "澳大利亚",
+  "en": "Australia",
+  "cities": [
+   {
+    "name": "悉尼",
+    "en": "Sydney",
+    "lng": 151.21,
+    "tz": 10,
+    "dst": "au"
+   },
+   {
+    "name": "墨尔本",
+    "en": "Melbourne",
+    "lng": 144.96,
+    "tz": 10,
+    "dst": "au"
+   },
+   {
+    "name": "布里斯班",
+    "en": "Brisbane",
+    "lng": 153.03,
+    "tz": 10
+   },
+   {
+    "name": "珀斯",
+    "en": "Perth",
+    "lng": 115.86,
+    "tz": 8
+   },
+   {
+    "name": "阿德莱德",
+    "en": "Adelaide",
+    "lng": 138.6,
+    "tz": 9.5,
+    "dst": "au"
+   }
+  ]
+ },
+ {
+  "name": "新西兰",
+  "en": "New Zealand",
+  "cities": [
+   {
+    "name": "奥克兰",
+    "en": "Auckland",
+    "lng": 174.76,
+    "tz": 12,
+    "dst": "nz"
+   },
+   {
+    "name": "惠灵顿",
+    "en": "Wellington",
+    "lng": 174.78,
+    "tz": 12,
+    "dst": "nz"
+   },
+   {
+    "name": "基督城",
+    "en": "Christchurch",
+    "lng": 172.64,
+    "tz": 12,
+    "dst": "nz"
+   }
+  ]
+ }
+]
